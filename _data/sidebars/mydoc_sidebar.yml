@@ -80,6 +80,10 @@ entries:
       url: /mydoc_pages.html
       output: web, pdf
 
+    - title: Experiment
+      url: /mydoc_experiment.html
+      output: web, pdf
+
     - title: Posts
       url: /mydoc_posts.html
       output: web, pdf

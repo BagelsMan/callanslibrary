@@ -160,6 +160,17 @@
 
 
 {
+"title": "Experiment",
+"tags": "getting_startedformattingcontent_types",
+"keywords": "pages, authoring, exclusion, frontmatter",
+"url": "mydoc_experiment.html",
+"summary": "This is an experiment to see how this page is going to be generated, and to get a feel for using this theme to build my website."
+}
+,
+
+
+
+{
 "title": "FAQ layout",
 "tags": "special_layouts",
 "keywords": "frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse",
